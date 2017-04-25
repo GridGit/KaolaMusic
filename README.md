@@ -1,6 +1,6 @@
 # KaolaMusic
-###Music player 		
-###这是一个音乐播放器，使用方式 		
+## Music player 		
+### 这是一个音乐播放器，使用方式 		
 1. clone到本地 git clone https://github.com/GridGit/KaolaMusic.git 	
 2. 进入clone到本地的文件，输入 node  bin/www		
 3. 浏览器中输入 127.0.0.1：3000，使用本应用。	
